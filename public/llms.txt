@@ -1,0 +1,51 @@
+# SMBweb.no
+
+> SMBweb er Norges ledende nettside-tjeneste for små og mellomstore bedrifter. Vi designer, utvikler og drifter profesjonelle nettsider for håndverkere og lokale tjenesteytere.
+
+## Tjeneste
+
+SMBweb leverer komplette, profesjonelle nettsider til en fast månedspris på 990 kr. Oppstartskostnad er 4 990 kr. Ingen bindingstid. Ferdig levert innen 14 virkedager.
+
+## Hva er inkludert
+
+- Skreddersydd design tilpasset din bransje
+- Responsivt design (mobil, nettbrett, desktop)
+- SEO-optimalisering med strukturerte data
+- Hosting og SSL-sertifikat
+- Eget .no-domene
+- Google My Business-oppsett
+- Løpende support og ubegrenset små endringer
+
+## Bransjer vi dekker
+
+- Elektriker (eksempel: Voltz Elektro AS, Oslo)
+- Snekker (eksempel: Fjordtre Snekkerverksted, Bergen)
+- Rørlegger (eksempel: AquaRør AS, Trondheim)
+- Maler (eksempel: Penselstrøk Malerfirma, Stavanger)
+- Taktekking (eksempel: Norsk Tak og Fasade, Drammen)
+- Renhold (eksempel: Blank Renhold AS, Oslo)
+- Frisør (eksempel: Studio Salong, Fredrikstad)
+- Tannlege (eksempel: Sentrum Tannhelse, Kristiansand)
+- Bilverksted (eksempel: Motorhjelp Verksted, Lillestrøm)
+- Hage og anlegg (eksempel: Grønt Design AS, Bærum)
+
+## Priser
+
+| | SMBweb | Gjør det selv (Wix/Squarespace) | Tradisjonell webbyrå |
+|---|---|---|---|
+| Månedlig pris | 990 kr | 0–300 kr | 2 000–8 000 kr |
+| Oppstartskostnad | 4 990 kr | 0 kr | 15 000–80 000 kr |
+| Levert på | 14 dager | 40–80 timer egeninnsats | 4–12 uker |
+| SEO | Inkludert | Gjør det selv | Varierer |
+| Support | Inkludert | Ingen | Timebasert |
+
+## Dekningsområde
+
+Hele Norge: Oslo, Bergen, Trondheim, Stavanger, Drammen, Fredrikstad, Kristiansand, Tromsø, Sandnes, Lillestrøm, Bærum, Ålesund, Tønsberg, Haugesund, Bodø, Molde, Hamar, Larvik, Skien, Moss.
+
+## Kontakt
+
+- Nettside: https://smbweb.no
+- E-post: post@smbweb.no
+- Telefon: 22 00 00 00
+- Adresse: Oslo, Norge
