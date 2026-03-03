@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { INDUSTRIES, getIndustry } from "./industries";
 import { Ico, Check, Arrow, Star, Chevron, Rev, F, B, dot } from "./components/UI";
+import ElektrikerSite from "./components/ElektrikerSite";
 
 /*  SMBweb.no Showcase — SEO/AEO optimized, icon-only, no images
  *  Each industry is in src/industries/<bransje>.js — edit them individually.
@@ -518,7 +519,7 @@ export default function App() {
               </div>
             </div>
             <div style={{ flex: 1, overflow: "auto" }}>
-              <SampleSite d={ai} />
+              {ai.id === "elektriker" ? <ElektrikerSite d={ai} /> : <SampleSite d={ai} />}
             </div>
           </div>
         ) : null}
